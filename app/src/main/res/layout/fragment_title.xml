@@ -57,5 +57,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/android_trivia" />
 
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
